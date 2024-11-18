@@ -45,8 +45,10 @@ To run this project, you need:
    git clone https://github.com/DulinaS/MineSweeper.git
    cd MineSweeper
 2.**Compile the Code: Navigate to the project directory and compile the Java files:**
+
     javac -d bin src/com/mycompany/minisweeper/*.java
 3.**Run the Game**
+   ```bash
     java -cp bin com.mycompany.minisweeper.MiniSweeperGame
 
 
